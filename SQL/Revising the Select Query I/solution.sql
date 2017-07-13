@@ -1,0 +1,3 @@
+select *
+FROM CITY c
+where c.POPULATION > 100000 AND c.COuNTRYCODE = "USA"
